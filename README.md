@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Yasmine Meftah
 I’m a second-year student at **IIM Digital School (Paris – La Défense)**, majoring in **Coding & Digital Innovation**.  
 
-💻 I’m passionate about **web development**, **data engineering**, **IoT**, and **creative tech projects** that mix design, logic, and storytelling.
+I’m passionate about **web development**, **data engineering**, **IoT**, and **creative tech projects** that mix design, logic, and storytelling.
 
 ---
 
@@ -25,7 +25,7 @@ I’m a second-year student at **IIM Digital School (Paris – La Défense)**, m
 
 ---
 
-### ⚡ Fun Fact
+### 😼 Fun Fact
 When I’m not coding, I love **video games**, **K-pop**, and **drawing** 🎨  
 
 ---
