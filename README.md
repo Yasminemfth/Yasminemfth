@@ -5,14 +5,14 @@ I’m passionate about **web development**, **data engineering**, **IoT**, and *
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - **Symfony** & **PHP MVC** architecture  
 - **React / Next.js** and modern front-end workflows  
 - **FastAPI** & **Python** for AI and data processing  
 - etc
 ---
 
-### 🔭 Projects I'm Working On
+### Projects I'm Working On
 - **Lexilala** → Multilingual education platform redesign *(WordPress + custom theme + Polylang)*  
 - **Nature Quest** → PHP MVC reservation system *(activities, users, reservations)*  
 - **Library Manager** → Symfony MVP *(CRUD Livre/Auteur/Genre with Twig & Doctrine)*  
@@ -28,6 +28,3 @@ I’m passionate about **web development**, **data engineering**, **IoT**, and *
 ### 😼 Fun Fact
 When I’m not coding, I love **video games**, **K-pop**, and **drawing** 🎨  
 
----
-
-> 🌙 *“Code is poetry — and every line tells a story.”*
