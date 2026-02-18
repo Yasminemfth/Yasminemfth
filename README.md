@@ -13,9 +13,8 @@ I’m passionate about **web development**, **data engineering**, **IoT**, and *
 ---
 
 ### Projects I'm Working On
-- **Lexilala** → Multilingual education platform redesign *(WordPress + custom theme + Polylang)*  
-- **Nature Quest** → PHP MVC reservation system *(activities, users, reservations)*  
-- **Library Manager** → Symfony MVP *(CRUD Livre/Auteur/Genre with Twig & Doctrine)*  
+- **Curiositiz** → *Family activity marketplace platform* (auth, reviews, filters, chat system)
+- **Website Security** → *Securing a website* (authentication, validation, CSRF protection, error handling)
 
 ---
 
