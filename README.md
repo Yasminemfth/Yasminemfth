@@ -8,7 +8,8 @@ I’m passionate about **web development**, **data engineering**, **IoT**, and *
 ### Currently Learning
 - **Symfony** & **PHP MVC** architecture  
 - **React / Next.js** and modern front-end workflows  
-- **FastAPI** & **Python** for AI and data processing  
+- **FastAPI** & **Python** for AI and data processing
+- **PHP**
 - etc
 ---
 
