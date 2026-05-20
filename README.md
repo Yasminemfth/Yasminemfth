@@ -22,7 +22,7 @@ I’m passionate about **web development**, **data engineering**, **IoT**, and *
 ### 📫 How to Reach Me
 - 📧 **Email:** [yasmine.meftah@edu.iim.fr](mailto:yasmine.meftah@edu.iim.fr)  
 - 💼 **LinkedIn:** [linkedin.com/in/yasminemeftah](https://linkedin.com/in/yasminemeftah)
-- 💻**Portfolio:** [https://portfolio-yasmine-meftah.onrender.com/)
+- 💻**Portfolio:** https://portfolio-yasmine-meftah.onrender.com/
 
 ---
 
