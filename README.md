@@ -40,4 +40,4 @@ I'm passionate about **web development**, **data engineering**, **IoT**, and **c
 
 ### 😼 Fun Fact
 
-When I'm not coding, I love **video games**, **K-pop**, and **drawing** 🎨
+When I'm not coding, I love **video games**, **K-pop**,**mangas** and **drawing** 🎨
