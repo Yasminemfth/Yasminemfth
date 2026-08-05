@@ -8,7 +8,7 @@ I'm passionate about **web development**, **data engineering**, **IoT**, and **c
 ### 💼 Currently
 
 - 🚀 **Internship @ Amplegest** — applying my development skills in a professional environment in **Finance**
-- 🎓 Second-year student @ IIM Digital School
+- 🎓 Second-year student at IIM Digital School
 
 ---
 
